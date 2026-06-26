@@ -54,7 +54,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kiran-Gorajanal07&theme=tokyonight)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/Kiran-Gorajanal07/Kiran-Gorajanal07/blob/output/github-contribution-grid-snake.svg)
+---
+```md
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kiran-Gorajanal07/Kiran-Gorajanal07/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+```
+
 
 ---
 
