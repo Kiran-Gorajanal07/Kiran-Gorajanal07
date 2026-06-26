@@ -1,4 +1,4 @@
-```md
+
 # Hi 👋, I'm Kiran Gorajanal
 
 🚀 **Passionate Embedded Systems & VLSI Enthusiast | Electronics & Communication Engineering Student (2022–2026)**
@@ -61,4 +61,4 @@
 ---
 
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-```
+
